@@ -1,5 +1,5 @@
 # Prohack-2020
-Solution of PROHACK 2020 ML competition held by McKinsey & Company at prohack.org.
+Solution of PROHACK 2020 ML competition held by McKinsey & Company at https://prohack.org/
 
 # Competition task
 “Beeep…Beeeep….Beeeep… Hooomans*, are you there?...”
